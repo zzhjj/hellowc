@@ -184,6 +184,12 @@
             "name": "#JOY通用开卡活动",
             "envName":"JD_JOYOPEN",
             "scriptPath":"KingRan_KR/jd_joyopen.js" 
+        },      
+        {
+           "isOpen": true,
+            "name": "LZ刮刮乐抽奖",
+            "envName":"jd_drawCenter_activityId",
+            "scriptPath":"KingRan_KR/jd_drawCenter.js" 
         }
 
  
